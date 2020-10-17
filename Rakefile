@@ -14,7 +14,6 @@ namespace :db do
   end
 end
 
-
 namespace :greeting do
 desc 'outputs hello to the terminal'
   task :hello do
